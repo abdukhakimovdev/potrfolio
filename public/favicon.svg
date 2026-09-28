@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1020" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bgGrad)" />
+  <rect x="2" y="2" width="124" height="124" rx="26" fill="none" stroke="rgba(96, 165, 250, 0.25)" stroke-width="2" />
+  <text x="64" y="80" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="52" letter-spacing="-1.5" fill="url(#textGrad)">AZ</text>
+  <circle cx="98" cy="42" r="4.5" fill="#38BDF8" />
+</svg>
